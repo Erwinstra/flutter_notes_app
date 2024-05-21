@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087331266875",
+    "project_id": "notesapp-flu--project",
+    "storage_bucket": "notesapp-flu--project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087331266875:android:c411bb7b494e68620ac71e",
+        "android_client_info": {
+          "package_name": "id.sentravion.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQs9zlZutoMVWZPWUqqFsUaKD5NGl0KCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
